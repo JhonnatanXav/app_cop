@@ -1,0 +1,11 @@
+[
+  { "food": "Emp pollo", "price": "2000", "total":"0" },
+  { "food": "Emp carne", "price": "2200", "total":"0"  },
+  { "food": "Emp papa y carne", "price": "1600" , "total":"0"},
+  { "food": "Emp pollo, queso y champi", "price": "2600" , "total":"0" },
+  { "food": "Emp chorizo y queso", "price": "2200", "total":"0" },
+  { "food": "Emp arroz, pollo, carne y huevo", "price": "2000", "total":"0"},
+  { "food": "Arepa huevo, pollo y carne", "price": "2800", "total":"0"  },
+  { "food": "Pastel de yuca, arroz, carne y huevo", "price": "2500", "total":"0" },
+  { "food": "Pastel de pollo", "price": "2200", "total":"0"  }
+]
